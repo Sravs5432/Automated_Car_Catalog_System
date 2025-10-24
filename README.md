@@ -14,7 +14,7 @@ Complete Resource Pack: Includes all related configuration files and documentati
 
 # Service Portal
 ## 🚀 Setup Instructions
-Clone or download this repository.
-Import the update set and other files into your ServiceNow instance.
-Assign appropriate roles to users and groups for controlled access.
-Open the Service Portal and start exploring the catalog!
+1. Clone or download this repository.
+2. Import the update set and other files into your ServiceNow instance.
+3. Assign appropriate roles to users and groups for controlled access.
+4. Open the Service Portal and start exploring the catalog!
